@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "turbo.projects": ["gdrive-mcp"],
+    "mcp.servers": {
+      "gdrive": {
+        "config": "${workspaceFolder}/./dev-tools/mcp/gdrive/mcp.json"
+      }
+    },
+    "files.exclude": {
+      "**/.env": true,
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/coverage": true,
+      "**/*.log": true
+    }
+  }
+}

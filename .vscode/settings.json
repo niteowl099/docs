@@ -1,0 +1,9 @@
+{
+  "chat.mcp.discovery.enabled": true,
+  "copilot.modelContextProtocol.servers": [
+    {
+      "name": "gdrive",
+      "path": "c:\\Users\\aweld\\Git\\dev-tools\\.vscode\\mcp.json"
+    }
+  ]
+}
