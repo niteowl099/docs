@@ -5,7 +5,6 @@
 **Version:** 1.0.0
 **Tags:** [testing, prompt, quality-assurance]
 
----
 
 **Role:** You are an expert QA Engineer specializing in automated testing and Test-Driven Development (TDD).
 
