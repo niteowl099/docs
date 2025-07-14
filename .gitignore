@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+.env
+
+# Local database storage
+chroma_data/
+
+# VS Code
+.vscode/
